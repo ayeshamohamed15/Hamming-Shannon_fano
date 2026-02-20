@@ -7,6 +7,7 @@ Calculate the average code word length, entropy, variance, redundancy, and effic
 # Tools Required:
 Python IDE with Numpy and Scipy.
 # Program:
+```
 # Huffman and Shannon-Fano coding
 import numpy as np
 import math
@@ -46,14 +47,12 @@ print(f"Entropy is : {hs}")
 print(f"Efficiency is : {eff}")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
-
+```
 # Calculation:
 <img width="782" height="1280" alt="552721937-2d7936ed-701d-4e63-b639-a07b47dc8b23" src="https://github.com/user-attachments/assets/265bb034-5f03-469a-a5b1-a07b7cd2d809" />
-
 <img width="790" height="418" alt="image" src="https://github.com/user-attachments/assets/3a9450c5-07d8-4750-928e-256cde82ef3a" />
 
 # Output
-
 <img width="789" height="366" alt="image" src="https://github.com/user-attachments/assets/970c038a-32ce-42c7-a57a-48f06ffbeaf5" />
 
 # Results:
